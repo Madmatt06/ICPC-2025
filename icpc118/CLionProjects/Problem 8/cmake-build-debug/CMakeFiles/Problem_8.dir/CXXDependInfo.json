@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/cgroup/icpc118/CLionProjects/Problem 8/cmake-build-debug",
+	"dir-cur-src" : "/home/cgroup/icpc118/CLionProjects/Problem 8",
+	"dir-top-bld" : "/home/cgroup/icpc118/CLionProjects/Problem 8/cmake-build-debug",
+	"dir-top-src" : "/home/cgroup/icpc118/CLionProjects/Problem 8",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/cgroup/icpc118/CLionProjects/Problem 8/cmake-build-debug/CMakeFiles/Problem_8.dir",
+	"sources" : 
+	{
+		"CMakeFiles/Problem_8.dir/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/cgroup/icpc118/CLionProjects/Problem 8/main.cpp"
+		}
+	}
+}
